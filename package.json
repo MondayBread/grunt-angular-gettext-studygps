@@ -1,16 +1,16 @@
 {
-  "name": "grunt-angular-gettext",
-  "description": "Tasks for extracting/compiling angular-gettext strings.",
-  "version": "0.2.14",
+  "name": "grunt-angular-gettext-studygps",
+  "description": "Add more Domain and Message Html Tasks for extracting/compiling angular-gettext strings.",
+  "version": "0.2.15",
   "homepage": "http://angular-gettext.rocketeer.be/",
   "author": {
-    "name": "Ruben Vermeersch",
-    "email": "ruben@savanne.be",
-    "url": "http://savanne.be"
+    "name": "Ruben Vermeersch, modified by Peter yun",
+    "email": "ruben@savanne.be, modified by nulpulum@gmail.com",
+    "url": "http://savanne.be, modified by http://mobicon.tistory.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/rubenv/grunt-angular-gettext.git"
+    "url": "git://github.com/rubenv/grunt-angular-gettext-studygps.git"
   },
   "bugs": {
     "url": "https://github.com/rubenv/grunt-angular-gettext/issues"
